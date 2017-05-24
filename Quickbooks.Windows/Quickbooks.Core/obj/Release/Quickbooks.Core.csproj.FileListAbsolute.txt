@@ -1,0 +1,5 @@
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Core\bin\Release\Quickbooks.Core.dll
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Core\bin\Release\Quickbooks.Core.pdb
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Core\bin\Release\Newtonsoft.Json.dll
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Core\obj\Release\Quickbooks.Core.dll
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Core\obj\Release\Quickbooks.Core.pdb

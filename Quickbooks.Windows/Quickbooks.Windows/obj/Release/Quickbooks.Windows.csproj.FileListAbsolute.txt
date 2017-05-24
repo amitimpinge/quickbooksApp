@@ -1,0 +1,13 @@
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\bin\Release\Quickbooks.Windows.exe.config
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\bin\Release\Quickbooks.Windows.exe
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\bin\Release\Quickbooks.Windows.pdb
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\bin\Release\Quickbooks.Core.dll
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\bin\Release\Quickbooks.Core.pdb
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\obj\Release\Quickbooks.Windows.csprojResolveAssemblyReference.cache
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\obj\Release\Quickbooks.Windows.Customers.resources
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\obj\Release\Quickbooks.Windows.Home.resources
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\obj\Release\Quickbooks.Windows.Properties.Resources.resources
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\obj\Release\Quickbooks.Windows.ReceivedPayments.resources
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\obj\Release\Quickbooks.Windows.csproj.GenerateResource.Cache
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\obj\Release\Quickbooks.Windows.exe
+D:\Official\Projects\Alex\Code\QuickbooksApp\Quickbooks.Windows\Quickbooks.Windows\obj\Release\Quickbooks.Windows.pdb

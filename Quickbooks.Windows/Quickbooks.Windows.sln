@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quickbooks.Windows", "Quickbooks.Windows\Quickbooks.Windows.csproj", "{46808BED-E848-47F4-A05E-110B16165CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quickbooks.Core", "Quickbooks.Core\Quickbooks.Core.csproj", "{4701D136-94B3-41AA-BF0A-4DC27DC2035E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Quickbooks.Setup", "Quickbooks.Setup\Quickbooks.Setup.vdproj", "{912758CC-8A3F-4BE8-8206-A46010165C2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46808BED-E848-47F4-A05E-110B16165CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46808BED-E848-47F4-A05E-110B16165CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46808BED-E848-47F4-A05E-110B16165CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46808BED-E848-47F4-A05E-110B16165CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4701D136-94B3-41AA-BF0A-4DC27DC2035E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4701D136-94B3-41AA-BF0A-4DC27DC2035E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4701D136-94B3-41AA-BF0A-4DC27DC2035E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4701D136-94B3-41AA-BF0A-4DC27DC2035E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912758CC-8A3F-4BE8-8206-A46010165C2D}.Debug|Any CPU.ActiveCfg = Debug
+		{912758CC-8A3F-4BE8-8206-A46010165C2D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
